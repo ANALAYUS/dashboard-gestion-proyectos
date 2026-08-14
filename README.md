@@ -3,7 +3,8 @@ Este proyecto forma parte de mi portafolio de análisis de datos, enfocado en la
 
 📊 Visualización del Dashboard
 
-<img width="867" height="547" alt="powerbi" src="https://github.com/user-attachments/assets/5c5c39c4-9970-4969-8fa5-f4542423293e" />
+
+<img width="852" height="480" alt="power_bi" src="https://github.com/user-attachments/assets/2f20c2cf-0315-4e31-aacb-88f365da9ad8" />
 
 
 🛠 Tecnologías Utilizadas
